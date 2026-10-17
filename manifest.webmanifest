@@ -1,0 +1,11 @@
+{
+  "name": "F1 LAB 記事メーカー",
+  "short_name": "F1 LAB",
+  "description": "F1 LABのオフライン対応記事メーカー",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#11151b",
+  "theme_color": "#11151b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}

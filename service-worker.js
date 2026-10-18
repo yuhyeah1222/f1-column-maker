@@ -1,4 +1,4 @@
-const CACHE_NAME = 'f1-column-maker-v1';
+const CACHE_NAME = 'f1-column-maker-v2';
 const APP_ROOT = new URL('./', self.location.href);
 const APP_URL = APP_ROOT.href;
 self.addEventListener('install', event => {
